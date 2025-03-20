@@ -1,4 +1,6 @@
-
+#include <iostream>
+#include <vector>
+#include <string>
 class Student {
 private:
     std::string name;
