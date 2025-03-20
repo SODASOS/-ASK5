@@ -1,3 +1,5 @@
+#include <iostream>
+#include <string>
 class Person {
 protected:
     std::string name;
